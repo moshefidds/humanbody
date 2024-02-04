@@ -1,1 +1,3 @@
-create database humanbody
+create database HumanbodyDB
+go
+use HumanbodyDB
