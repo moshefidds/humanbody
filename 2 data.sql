@@ -1,4 +1,4 @@
-insert body(bodypart, num)
+insert Body(bodypart, num)
 select 'eyes', 2
 union select 'ears', 2
 union select 'nose', 1
